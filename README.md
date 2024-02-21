@@ -1,7 +1,15 @@
-<h1 align="center"> Login Page</h1>
+<h1 align="center"> Calculadora de IMC</h1>
 
 <p align="center">
-Página de login com funcionalidade de light e dark mode. 😀 <br/>
+O Índice de Massa Corporal (IMC) é um parâmetro bastante utilizado para classificar o indivíduo de acordo com seu peso e altura.🏀 <br/>
+<p align="center">
+TABELA:
+  Menor ou igual a 18.5 = abaixo de peso
+  Menor ou igual a 24.9 = peso normal  
+  Menor ou igual a 29.9 = sobrepeso
+  Menor ou igual a 39.9 = obesidade
+  Maior que 40 = obesidade grave
+  <br/>
 
 
 
