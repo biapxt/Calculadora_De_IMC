@@ -21,7 +21,7 @@ O Índice de Massa Corporal (IMC) é um parâmetro bastante utilizado para class
 <br>
 
 <p align="center">
-  <img alt="banner calculadora de imc" src="github/calculadora de imc banner.png" width="100%">
+  <img alt="banner calculadora de imc" src="github/calculadora de imc banner.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
